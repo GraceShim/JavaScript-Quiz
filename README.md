@@ -9,6 +9,8 @@ The coding of this quiz contains all materials learned from the class so far.
 ![screenshot](/Assets/image/snapshot.PNG)
 
 # Link 
+GitHub Repository: https://github.com/GraceShim/JavaScript-Quiz.git
+Webpage: https://graceshim.github.io/JavaScript-Quiz/
 
 # Author
 Grace D. Shim https://github.com/GraceShim
